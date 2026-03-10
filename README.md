@@ -21,8 +21,14 @@ This project analyzes bike purchase behavior using demographic and commute dista
 - Customers commuting 0–1 miles are more likely to purchase.
 - Regional differences impact buying patterns.
 
-## 📷 Dashboard Preview
+## Dashboard Overview
 ![Dashboard](images/Bike_Sales_DashboardOverview.png)
+
+## Dashboard Interactivity
+![Interactivity](images/Bike_Sales_Dashboard_Interactivity.png)
+
+## Marital Status Filter
+![Filter](images/Bike_Sales_Dashboard_MaritalStatus_Slicer.png)
 
 ## 📂 Dataset
 Simulated bike sales dataset used for dashboard analysis.
