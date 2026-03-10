@@ -32,3 +32,8 @@ This project analyzes bike purchase behavior using demographic and commute dista
 
 ## 📂 Dataset
 Simulated bike sales dataset used for dashboard analysis.
+
+
+## Author
+Lerato Mazibuko
+Junior Data Analyst
