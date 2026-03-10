@@ -22,13 +22,13 @@ This project analyzes bike purchase behavior using demographic and commute dista
 - Regional differences impact buying patterns.
 
 ## Dashboard Overview
-![Dashboard](Bike-Sales-Analysis/images/Bike_Sales_DashboardOverview.png)
+![Dashboard](Bike-Sales-Analysis/images/Bike_Sales_DashboardOverview.PNG)
 
 ## Dashboard Interactivity
-![Interactivity](Bike-Sales-Analysis/images/Bike_Sales_Dashboard_Interactivity.png)
+![Interactivity](Bike-Sales-Analysis/images/Bike_Sales_Dashboard_Interactivity.PNG)
 
 ## Marital Status Filter
-![Filter](Bike-Sales-Analysis/images/Bike_Sales_Dashboard_MaritalStatus_Slicer.png)
+![Filter](Bike-Sales-Analysis/images/Bike_Sales_Dashboard_MaritalStatus_Slicer.PNG)
 
 ## 📂 Dataset
 Simulated bike sales dataset used for dashboard analysis.
